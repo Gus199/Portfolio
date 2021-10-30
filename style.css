@@ -30,7 +30,12 @@ html {
   .main-container {
     height: 100vh;
   }
+  /* style Photo */
+  .imgMe {
+    /* filter: brightness(50%); */
+    filter:brightness(50%)
   
+}
   /* Aligning items in main row */
   .main_row {
     display: flex;
