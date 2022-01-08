@@ -14,9 +14,9 @@ this project represent personal full stack development portfolio,
 
 # User-Story
 
-`AS AN employer looking for candidates with experience building single-page applications
+```AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
-SO THAT I can assess whether they're a good candidate for an open position`
+SO THAT I can assess whether they're a good candidate for an open position ```
 
 # Installations
 
@@ -29,7 +29,7 @@ Please feel free to submit any code updates for review and acceptance.
  * [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Project Demo Video
- * [Demo](https://watch.screencastify.com/v/XcpfBM1F9bDahvo9oQ5G)
+ * [Demo Video](https://watch.screencastify.com/v/XcpfBM1F9bDahvo9oQ5G)
 
 
  # Screenshots:
