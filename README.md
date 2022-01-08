@@ -10,13 +10,12 @@
 * Questions
 
 # Description 
-this project represent personal full stack development portfolio,
+this project present personal full stack development portfolio,
 
 # User-Story
 
-<clipboard-copy>AS AN employer looking for candidates with experience building single-page applications
-I WANT to view a potential employee's deployed React portfolio of work samples
-SO THAT I can assess whether they're a good candidate for an open position </clipboard-copy>
+As an employer looking for candidates with experience building portfolio applications
+So that i can assess whether they're a good candidate for an open position 
 
 # Installations
 
